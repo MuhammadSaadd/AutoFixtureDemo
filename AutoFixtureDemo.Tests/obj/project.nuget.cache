@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QsX2qTiNENDnOgbwEBglV1Lw8jwiNrItqAY8qsTjGSMRYtTYwPnIa3sPusasWNEzE6PfzJwSdyRBguAkLiJC/Q==",
+  "dgSpecHash": "VFAcRO6WHBX5ic3i27+CpOAt6dI3rXYsgPnvL/1oS7fEaYk+vZih63v6GZKeRQ7KPrJKk0nup7dWx2VH1e8RGw==",
   "success": true,
   "projectFilePath": "/run/media/saad/Master/Web Development in .Net 6/AutoFixtureDemo/AutoFixtureDemo.Tests/AutoFixtureDemo.Tests.csproj",
   "expectedPackageFiles": [
     "/home/saad/.nuget/packages/autofixture/4.18.0/autofixture.4.18.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/autofixture.automoq/4.18.0/autofixture.automoq.4.18.0.nupkg.sha512",
     "/home/saad/.nuget/packages/autofixture.xunit2/4.18.0/autofixture.xunit2.4.18.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/castle.core/4.0.0/castle.core.4.0.0.nupkg.sha512",
     "/home/saad/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/home/saad/.nuget/packages/fare/2.1.1/fare.2.1.1.nupkg.sha512",
     "/home/saad/.nuget/packages/fluentassertions/6.11.0/fluentassertions.6.11.0.nupkg.sha512",
@@ -31,6 +33,7 @@
     "/home/saad/.nuget/packages/microsoft.testplatform.objectmodel/17.3.2/microsoft.testplatform.objectmodel.17.3.2.nupkg.sha512",
     "/home/saad/.nuget/packages/microsoft.testplatform.testhost/17.3.2/microsoft.testplatform.testhost.17.3.2.nupkg.sha512",
     "/home/saad/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/moq/4.7.0/moq.4.7.0.nupkg.sha512",
     "/home/saad/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/home/saad/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
     "/home/saad/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
@@ -58,13 +61,18 @@
     "/home/saad/.nuget/packages/system.buffers/4.3.0/system.buffers.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.collections.concurrent/4.3.0/system.collections.concurrent.4.3.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/system.collections.nongeneric/4.0.1/system.collections.nongeneric.4.0.1.nupkg.sha512",
+    "/home/saad/.nuget/packages/system.collections.specialized/4.0.1/system.collections.specialized.4.0.1.nupkg.sha512",
     "/home/saad/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.componentmodel.annotations/4.3.0/system.componentmodel.annotations.4.3.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/system.componentmodel.primitives/4.1.0/system.componentmodel.primitives.4.1.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/system.componentmodel.typeconverter/4.1.0/system.componentmodel.typeconverter.4.1.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.console/4.3.0/system.console.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.diagnostics.diagnosticsource/4.3.0/system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.diagnostics.tools/4.3.0/system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/system.diagnostics.tracesource/4.0.0/system.diagnostics.tracesource.4.0.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.diagnostics.tracing/4.3.0/system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.dynamic.runtime/4.0.11/system.dynamic.runtime.4.0.11.nupkg.sha512",
     "/home/saad/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
@@ -77,6 +85,7 @@
     "/home/saad/.nuget/packages/system.io.filesystem.primitives/4.3.0/system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.linq/4.3.0/system.linq.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.linq.expressions/4.3.0/system.linq.expressions.4.3.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/system.linq.queryable/4.0.1/system.linq.queryable.4.0.1.nupkg.sha512",
     "/home/saad/.nuget/packages/system.net.http/4.3.0/system.net.http.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.net.primitives/4.3.0/system.net.primitives.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.net.sockets/4.3.0/system.net.sockets.4.3.0.nupkg.sha512",
@@ -114,6 +123,8 @@
     "/home/saad/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/home/saad/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
+    "/home/saad/.nuget/packages/system.xml.xmldocument/4.0.1/system.xml.xmldocument.4.0.1.nupkg.sha512",
+    "/home/saad/.nuget/packages/system.xml.xmlserializer/4.0.11/system.xml.xmlserializer.4.0.11.nupkg.sha512",
     "/home/saad/.nuget/packages/xunit/2.4.2/xunit.2.4.2.nupkg.sha512",
     "/home/saad/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
     "/home/saad/.nuget/packages/xunit.analyzers/1.0.0/xunit.analyzers.1.0.0.nupkg.sha512",
@@ -124,5 +135,16 @@
     "/home/saad/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512",
     "/home/saad/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Castle.Core 4.0.0 depends on System.ComponentModel.TypeConverter (>= 4.0.1) but System.ComponentModel.TypeConverter 4.0.1 was not found. An approximate best match of System.ComponentModel.TypeConverter 4.1.0 was resolved.",
+      "libraryId": "System.ComponentModel.TypeConverter",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
